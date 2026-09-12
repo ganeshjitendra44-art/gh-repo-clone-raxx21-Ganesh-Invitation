@@ -8,11 +8,12 @@
 
   /* --- Configuration -------------------------------------- */
   var CONFIG = {
-    mapsUrl: 'https://maps.app.goo.gl/cRY1QJZiN5nMUKr87',
+    mapsUrl: 'https://maps.app.goo.gl/Jd17tmLFdjegoVLp6',
     showWhatsApp: true,
     showPetals: true,
-    shareMessage: 'Ganpati Bappa Morya! You and your family are invited for darshan ' +
-                  'and aarti at our home on 14 & 15 September 2026. Directions: '
+    shareMessage: 'Ganpati Bappa Morya! You and your family are warmly invited ' +
+                'to our Home Ganeshotsav from 14 to 18 September 2026 for ' +
+                'darshan, aarti and prasad. Directions: '
   };
 
   /* --- Element lookup ------------------------------------- */
